@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Rnmr1D"]
+	path = Rnmr1D
+	url = https://github.com/inra/rnmr1d
+	shallow = true
+	registered = true
